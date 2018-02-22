@@ -4,16 +4,20 @@
         {
             "name": "百域阁(全网)",
             "url": "http://api.baiyug.cn/vip/index.php",
-            "Referer":"http://api.baiyug.cn"
+            "Referer":"http://api.baiyug.cn",
+            "parseName":"baiyug"
         },
         {
             "name": "石头解析(全网)",
-            "url": "http://014670.cn/jx/mg.php"
+            "url": "http://014670.cn/jx/mg.php",
+            "Referer":"http://014670.cn",
+            "parseName":"shitou"
         },
         {
             "name": "那片解析(全网)",
             "url": "http://api.nepian.com/ckparse/",
-            "Referer":"http://api.nepian.com"
+            "Referer":"http://api.nepian.com",
+            "parseName":"napian"
         }
     ]
 }
