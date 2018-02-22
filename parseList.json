@@ -3,7 +3,7 @@
     "source": [
         {
             "name": "百域阁(全网)",
-            "url": "http://api.baiyug.cn/vip",
+            "url": "http://api.baiyug.cn/vip/",
             "Referer":"http://api.baiyug.cn"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "name": "那片解析(全网)",
-            "url": "http://api.nepian.com/ckparse",
+            "url": "http://api.nepian.com/ckparse/",
             "Referer":"http://api.nepian.com"
         }
     ]
