@@ -3,7 +3,7 @@
     "source": [
         {
             "name": "百域阁(全网)",
-            "url": "http://api.baiyug.cn/vip/",
+            "url": "http://api.baiyug.cn/vip/index.php",
             "Referer":"http://api.baiyug.cn"
         },
         {
