@@ -2,10 +2,16 @@
     "iid": "201802224",
     "source": [
         {
-            "name": "百域阁(全网)",
+            "name": "百域阁解析(全网)",
             "url": "http://api.baiyug.cn/vip/index.php",
             "Referer":"http://api.baiyug.cn",
             "parseName":"baiyug"
+        },
+        {
+            "name": "1717云解析(全网)",
+            "url": "http://www.1717yun.com/jx/ty.php",
+            "Referer":"http://www.1717yun.com/",
+            "parseName":"1717yun"
         },
         {
             "name": "强强解析(全网)",
