@@ -15,7 +15,7 @@
         },
         {
             "name": "那片解析(全网)",
-            "url": "http://api.nepian.com/ckparse/",
+            "url": "http://api.nepian.com/ckparse",
             "Referer":"http://api.nepian.com",
             "parseName":"napian"
         }
