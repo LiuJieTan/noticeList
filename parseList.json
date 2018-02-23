@@ -9,7 +9,7 @@
         },
         {
             "name": "石头解析(全网)",
-            "url": "http://014670.cn/jx/mg.php",
+            "url": "http://014670.cn/2018/222.php",
             "Referer":"http://014670.cn",
             "parseName":"shitou"
         },
@@ -21,3 +21,5 @@
         }
     ]
 }
+//http://014670.cn/2018/222.php
+//http://014670.cn/jx/mg.php
