@@ -18,6 +18,12 @@
             "url": "http://jx.api.163ren.com/vod.php",
             "Referer":"http://api.nepian.com",
             "parseName":"napian"
+        },
+        {
+            "name": "石头云解析(全网)",
+            "url": "http://jiexi.071811.cc/jx.php",
+            "Referer":"http://jiexi.071811.cc",
+            "parseName":"shitouyun"
         }
     ]
 }
