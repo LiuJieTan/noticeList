@@ -3,17 +3,12 @@
     "source": [
         {
             "tag": 1,
-            "name": "http://api.baiyug.cn/vip/index.php",
-            "url":"http://api.baiyug.cn"
+            "name": "使用小贴士",
+            "url":"https://liujietan.github.io/noticeList/notice.html"
         },
          {
             "tag": 2,
-            "name": "http://api.baiyug.cn/vip/index.php",
-            "url":"http://api.baiyug.cn"
-        },
-        {
-            "tag": 3,
-            "name": "http://api.baiyug.cn/vip/index.php",
+            "name": "百度一下，你就知道",
             "url":"http://api.baiyug.cn"
         }
     ]
