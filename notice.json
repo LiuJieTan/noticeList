@@ -5,6 +5,11 @@
             "tag": 1,
             "name": "使用小贴士",
             "url":"https://liujietan.github.io/noticeList/notice.html"
+        },
+         {
+            "tag": 2,
+            "name": "百度一下，你就知道",
+            "url":"https://www.baidu.com/"
         }
     ]
 }
